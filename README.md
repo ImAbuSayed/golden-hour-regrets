@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/golden-hour-regrets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Golden Hour Regrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-hour-regrets/) |
+| **Get License** | [Get a Licensing Quote for Golden Hour Regrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-hour-regrets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The sun is sinking low across the wooden floor
+> I am holding on but wanting something more
+> Fire light is dancing deep inside your eyes
+> We are losing track of time in sweet replies
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
