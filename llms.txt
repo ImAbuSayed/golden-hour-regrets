@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/golden-hour-regrets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Golden Hour Regrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-hour-regrets/) |
+| **Get License** | [Commercial Licensing for Golden Hour Regrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-hour-regrets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2116)
 
 ---
 
